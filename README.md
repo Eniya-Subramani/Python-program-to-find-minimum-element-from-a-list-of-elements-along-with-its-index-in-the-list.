@@ -1,0 +1,1 @@
+# Python-program-to-find-minimum-element-from-a-list-of-elements-along-with-its-index-in-the-list.
